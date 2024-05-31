@@ -1,1 +1,1 @@
-# 25.-Band-Generator-Project
+# Band-Generator-Project
